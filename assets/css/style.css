@@ -184,7 +184,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/lake.jpg") top right;
+  background: url("../img/lake_01.jpg") top right;
   background-size: cover;
   position: relative;
 }
